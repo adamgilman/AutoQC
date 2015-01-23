@@ -1,0 +1,2 @@
+class AutoQC(object):
+	pass
