@@ -1,5 +1,6 @@
 MacFSEvents==0.4
 colorama==0.3.3
+envoy==0.0.3
 nose==1.3.4
 python-termstyle==0.1.10
 sniffer==0.3.4

@@ -1,13 +1,13 @@
 import unittest
 #@unittest.skip("temp disabled")
 
-class TestParser(unittest.TestCase):
+class TestObject(unittest.TestCase):
 	def setUp(self):
 		pass
 
-	def test_LoadSpec(self):
+	def test_LoadObject(self):
 		from autoqc import *
 
-		qu = AutoQC()
+		qc = AutoQC()
 
 		#self.assertEqual(result, CommandParser(command))
